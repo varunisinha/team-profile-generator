@@ -42,7 +42,7 @@ Link to user input
 
 When all information on the team member has been entered, the user is asked whether there are any more members they would like to add. If so, the user is asked the same questions about the new team member. If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html." A screenshot of an example team profile is shown below:
 
-"()"
+"(https://raw.githubusercontent.com/varunisinha/team-profile-generator/main/output-folder/Screen%20Shot%202021-11-08%20at%204.53.06%20PM.png)"
 
 
 Techniques and Technologies Used
